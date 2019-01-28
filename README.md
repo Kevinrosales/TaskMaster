@@ -1,7 +1,7 @@
 # TaskManager
 
 ## Lab 40   
-###Tasks of the day
+### Tasks of the day
 * Users should be able to create a Project.
 * Users should be able to add a task to a Project.
 * Both Tasks and Projects should be saved locally to a database.
