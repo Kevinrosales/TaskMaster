@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void goToProjectsPage(View v) {
+    public void goToProjectsPage(View view) {
         Intent ProjectPageIntent = new Intent(this, project_page.class);
         startActivity(ProjectPageIntent);
     }
